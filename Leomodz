@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "FIXING",
+  "Description": "Fixing bug please wait",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "😮",
+  "Version": "1.1"
+}
